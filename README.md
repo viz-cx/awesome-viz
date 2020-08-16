@@ -41,3 +41,6 @@ VIZ is a social blockchain platform for applications.
 ## Browser extensions
 * [Chrome](https://chrome.google.com/webstore/detail/vizonator/iehoehfkanaobnbldjfjfabbpaiiojnp)
 * [Firefox](https://addons.mozilla.org/ru/firefox/addon/vizonator/)
+
+## Communities
+* [Telegram support chat](https://t.me/eng_viz_faq)
