@@ -4,7 +4,7 @@
 VIZ is a social blockchain platform for applications.
 
 ## Constitution
-* [VIZ chain node]([chain](https://github.com/VIZ-Blockchain/viz-cpp-node))
+* [VIZ chain node](https://github.com/VIZ-Blockchain/viz-cpp-node)
 * [VIZPLUS whitepaper](https://viz.media/vizplus-whitepaper/)
 
 ## Entrypoints
