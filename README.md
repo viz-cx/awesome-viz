@@ -12,7 +12,7 @@ VIZ is a social blockchain platform for applications.
 
 ## Explorers
 * [info.viz.plus](https://translate.google.com/translate?sl=ru&tl=en&u=https://info.viz.plus) ([sources](https://github.com/vizplus/info-viz-plus))
-* [dpos.space/viz/explorer](https://translate.googleusercontent.com/translate_c?depth=1&pto=aue&rurl=translate.google.com&sl=ru&sp=nmt4&tl=en&u=https://dpos.space/viz/explorer&usg=ALkJrhhLnWS0bceSZhPqHadtdrOysIXJMA) ([sources](https://github.com/denis-skripnik/dpos.space))
+* [dpos.space/viz/explorer](https://translate.google.com/translate?sl=ru&tl=en&u=https://dpos.space/viz/explorer) ([sources](https://github.com/denis-skripnik/dpos.space))
 
 ## Wallets
 * [my.viz.plus](https://my.viz.plus)
@@ -30,13 +30,13 @@ VIZ is a social blockchain platform for applications.
 
 ## Information resources
 * [control.viz.world/media](https://control.viz.world/media/tags/en/) ([sources](https://github.com/VIZ-Blockchain/viz-php-control-panel))
-* [viz.media](https://translate.google.com/translate?sl=ru&tl=en&u=https%3A%2F%2Fviz.media)
-* [viz.dpos.space](https://translate.google.com/translate?hl=&sl=ru&tl=en&u=https%3A%2F%2Fviz.dpos.space%2F%3Fpage%3Dhome&sandbox=1) ([sources](https://github.com/denis-skripnik/dpos.space))
+* [viz.media](https://translate.google.com/translate?sl=ru&tl=en&u=https://viz.media)
+* [viz.dpos.space](https://translate.google.com/translate?sl=ru&tl=en&u=https://viz.dpos.space) ([sources](https://github.com/denis-skripnik/dpos.space))
 
 ## Tools and services
 * [control.viz.world/tools](https://control.viz.world/tools/)
 * [ropox.app/viz](https://ropox.app/viz/)
-* [dpos.space/viz](https://translate.google.com/translate?hl=&sl=ru&tl=en&u=https%3A%2F%2Fdpos.space%2Fviz) ([sources](https://github.com/denis-skripnik/dpos.space))
+* [dpos.space/viz](https://translate.google.com/translate?sl=ru&tl=en&u=https://dpos.space/viz) ([sources](https://github.com/denis-skripnik/dpos.space))
 
 ## Browser extensions
 * [Chrome](https://chrome.google.com/webstore/detail/vizonator/iehoehfkanaobnbldjfjfabbpaiiojnp)
