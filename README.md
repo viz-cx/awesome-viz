@@ -24,6 +24,7 @@ VIZ is a social blockchain platform for applications.
 * [GoLang](https://github.com/VIZ-Blockchain/viz-go-lib)
 * [Python](https://github.com/VIZ-Blockchain/viz-python-lib)
 * [Dart](https://github.com/VizTower/viz-transaction)
+* [C#](https://github.com/lososeg/Graphene.Viz)
 
 ## Exchanges
 * Bitshares: [USDT](https://wallet.bitshares.org/#/market/XCHNG.VIZ_RUDEX.USDT) | [BTC](https://wallet.bitshares.org/#/market/XCHNG.VIZ_RUDEX.BTC) | [BTS](https://wallet.bitshares.org/#/market/XCHNG.VIZ_BTS) | [RUBLE](https://wallet.bitshares.org/#/market/XCHNG.VIZ_RUBLE)
